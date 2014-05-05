@@ -47,10 +47,8 @@
 
 // animation
 #sidebar {
-  opacity: 0;
-  @include animation("fadeIn", 10s, ease);
+  opacity: 0.2;
 }
-
 
 // style
 .container {
